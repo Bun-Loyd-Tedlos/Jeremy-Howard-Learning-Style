@@ -166,8 +166,10 @@ Implementation exposes:
   - avoid total confusion
   - create a working prototype
   - Do NOT aim for completeness.
+    
 **Step 2 — Build Immediately:**
 - Goal: establish direct contact with the system (e.g., CRUD logic, training models, building parsers).
+  
 **Step 3 — Observe Behavior:**
 - Focus on:
   - inputs
