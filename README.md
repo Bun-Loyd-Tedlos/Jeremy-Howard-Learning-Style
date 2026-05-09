@@ -169,48 +169,48 @@ It rewarded adaptability, implementation, experimentation, optimization, and pra
 
 **Step 1 — Build Something Immediately**
 *   Do not overprepare
-*   Examples:
-*   deploy a simple API
-*   train a toy model
-*   build a CRUD system
-*   process real CSV files
-*   write a parser
-*   create a state machine
+ *   Examples:
+  *   deploy a simple API
+  *   train a toy model
+  *   build a CRUD system
+  *   process real CSV files
+  *   write a parser
+  *   create a state machine
 *   Goal: establish contact with the system
 
 **Step 2 — Observe System Behavior**
 *   Track:
-*   state changes
-*   outputs
-*   memory behavior
-*   latency
-*   edge cases
-*   errors
-*   transformations
-*   Document observations
+ *   state changes
+ *   outputs
+ *   memory behavior
+ *   latency
+ *   edge cases
+ *   errors
+ *   transformations
+ *   Document observations
 
 **Step 3 — Run Controlled Experiments**
 *   Modify one variable at a time
 *   Observe:
-*   causal effects
-*   sensitivities
-*   thresholds
-*   failure points
+ *   causal effects
+ *   sensitivities
+ *   thresholds
+ *   failure points
 
 **Step 4 — Create Mental Models**
 *   Ask:
-*   what abstraction explains these behaviors?
-*   what invariant keeps appearing?
-*   what transformation pattern exists?
+ *   what abstraction explains these behaviors?
+ *   what invariant keeps appearing?
+ *   what transformation pattern exists?
 
 **Step 5 — Study Theory After Context Exists**
 *   Now study:
-*   algorithms
-*   mathematics
-*   architecture
-*   probability
-*   systems design
-*   because you now possess behavioral anchors
+ *   algorithms
+ *   mathematics
+ *   architecture
+ *   probability
+ *   systems design
+ *   because you now possess behavioral anchors
 
 ---
 
