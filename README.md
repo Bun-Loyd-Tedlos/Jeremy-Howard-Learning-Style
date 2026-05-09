@@ -72,13 +72,13 @@ You are developing: operational intuition, causal understanding, system feel.
 * pattern recognition.
 
 **Example**
-*   **Change:**
+* **Change:**
   - learning rate
   - query structure
   - architecture
   - state transitions
   - memory allocation strategy.
-*   **Observe:**
+* **Observe:**
   - what behavior changed
   - what behavior remained invariant.
 
