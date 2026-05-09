@@ -234,10 +234,19 @@ Now study:
 
 ### 7. Risks and Failure Modes
 
-*   **A. Shallow Intuition Trap:** becoming implementation-heavy but conceptually weak (Solution: formalize after experimentation).
-*   **B. Cargo-Cult Building:** copying patterns without understanding causality (Solution: inspect invariants and mechanisms).
-*   **C. Weak Communication Ability:** inability to explain formally (Solution: translate intuition into precise abstractions).
-*   **D. Endless Experimentation Without Abstraction:** remaining stuck in trial-and-error mode (Solution: periodically consolidate mental models).
+*   **A. Shallow Intuition Trap:**
+    - Risk:becoming implementation-heavy but conceptually weak
+    - Solution: formalize after experimentation.
+*   **B. Cargo-Cult Building:**
+    - Risk:
+      - copying patterns without understanding causality
+    - Solution: inspect invariants and mechanisms.
+*   **C. Weak Communication Ability:**
+    - Risk: inability to explain formally
+    - Solution: translate intuition into precise abstractions.
+*   **D. Endless Experimentation Without Abstraction:**
+   - Risk: remaining stuck in trial-and-error mode
+   - Solution: periodically consolidate mental models.
 
 ---
 
