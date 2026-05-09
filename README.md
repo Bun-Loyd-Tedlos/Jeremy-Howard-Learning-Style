@@ -65,11 +65,22 @@ You are developing: operational intuition, causal understanding, system feel.
 *   observe deltas
 *   identify sensitivities
 
-**This develops:** intuition for parameter effects, debugging ability, adaptation skills, pattern recognition.
+**This develops:** 
+* intuition for parameter effects
+* debugging ability
+* adaptation skills
+* pattern recognition.
 
 **Example**
-*   **Change:** learning rate, query structure, architecture, state transitions, memory allocation strategy.
-*   **Observe:** what behavior changed, what behavior remained invariant.
+*   **Change:**
+  *   learning rate
+  *   query structure
+  *   architecture
+  *   state transitions
+  *   memory allocation strategy.
+*   **Observe:**
+  *   what behavior changed
+  *   what behavior remained invariant.
 
 #### Phase 4 — Constraint Exposure
 **Objective:** Encounter real-world limitations early.
@@ -83,12 +94,23 @@ You are developing: operational intuition, causal understanding, system feel.
 *   edge cases
 *   failure states
 
-**Why This Matters:** Real understanding develops under constraints. Constraints force: prioritization, decomposition, systems thinking, robustness.
+**Why This Matters:** Real understanding develops under constraints. 
+* Constraints force:
+  * prioritization
+  * decomposition
+  * systems thinking
+  * robustness.
 
 #### Phase 5 — Formalization
 **Objective:** Attach formal concepts onto observed behavior.
 
-This is where: mathematics, theory, terminology, abstractions, proofs, design patterns become meaningful.
+This is where: 
+* mathematics
+* theory
+* terminology
+* abstractions 
+* proofs
+* design patterns become meaningful.
 
 **Important Principle:** Theory is now interpreted as a compressed description of behaviors already observed, instead of abstract symbols disconnected from reality.
 
@@ -111,11 +133,21 @@ Understand systems as:
 
 #### C. Invariant-Oriented Learning
 Focus on: what must remain true regardless of transformation.
-Examples: database consistency, model assumptions, type guarantees, memory validity, business rules.
+Examples: 
+* database consistency
+* model assumptions
+* type guarantees 
+* memory validity
+* business rules.
 
 #### D. Feedback Compression
 Learning accelerates when feedback is: immediate, measurable, repeated, observable.
-This is why: Kaggle, debugging, competitive programming, system instrumentation, live experimentation accelerate learning dramatically.
+This is why:
+* Kaggle
+* debugging
+* competitive programming
+* system instrumentation
+* live experimentation accelerate learning dramatically.
 
 ---
 
