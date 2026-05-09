@@ -160,22 +160,63 @@ Implementation exposes:
 
 ### 12. Practical Application Strategy
 
-*   **Step 1 — Start With Minimal Theory:** Learn only enough to begin interaction, avoid total confusion, and create a working prototype. Do NOT aim for completeness.
-*   **Step 2 — Build Immediately:** Goal: establish direct contact with the system (e.g., CRUD logic, training models, building parsers).
-*   **Step 3 — Observe Behavior:** Focus on inputs, outputs, transitions, mutations, invariants, and failures.
-*   **Step 4 — Study Reactively:** Study architecture, algorithms, and design patterns only after encountering real implementation problems.
-*   **Step 5 — Refactor and Iterate:** Refinement develops abstraction skill, systems intuition, and engineering judgment.
+**Step 1 — Start With Minimal Theory:**
+- Learn only enough to:
+  - begin interaction
+  - avoid total confusion
+  - create a working prototype
+  - Do NOT aim for completeness.
+**Step 2 — Build Immediately:**
+- Goal: establish direct contact with the system (e.g., CRUD logic, training models, building parsers).
+**Step 3 — Observe Behavior:**
+- Focus on:
+  - inputs
+  - outputs
+  - transitions
+  - mutations
+  - invariants
+  - failures
+**Step 4 — Study Reactively:**
+- Study:
+  - architecture
+  - algorithms
+  - design patterns
+  - mathematics
+  - optimization
+  but only after encountering real implementation problems.
+**Step 5 — Refactor and Iterate:**
+- Refinement develops:
+  - abstraction skill
+  - systems intuition
+  - engineering judgment
+  - pattern recognition
 
 ### 13. Example: Laundry System Application
 
 **Incorrect Approach**
-*   Attempt to fully learn software architecture, database theory, design patterns, scaling, optimization, and DDD before building anything.
-*   Result: paralysis, fragmentation, delayed progress.
+* Attempt to fully learn software architecture, database theory, design patterns, scaling, optimization, and DDD before building anything.
+* Result:
+  - paralysis
+  - fragmentation
+  - delayed progress
 
 **Recommended Approach**
-*   Build customer records, pricing logic, service tracking, and transaction state flow.
-*   Observe duplicated logic, invalid states, and coupling issues.
-*   Apply architecture patterns and system design principles as meaningful solutions to experienced problems.
+*   Build customer records
+*   pricing logic
+*   service tracking
+*   discounts
+*   transaction state flow
+  
+*   Observe duplicated logic
+*   invalid states
+*   persistence issues
+*   coupling issues
+*   scaling concerns
+  
+* apply
+  * architecture patterns
+  * abstractions
+  * system design principles
 
 ### 14. Important Warning
 
