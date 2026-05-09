@@ -176,7 +176,7 @@ It rewarded:
 ### 5. Practical Implementation Framework
 
 **Step 1 — Build Something Immediately**
-*   Do not overprepare
+* Do not overprepare
  * Examples:
   * deploy a simple API
   * train a toy model
