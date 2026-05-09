@@ -119,8 +119,8 @@ This is where:
 ### 3. Core Cognitive Principles
 
 #### A. Behavior-First Understanding
-Do not ask: “What is the definition?”
-Ask: “What behavior does this produce?”
+* Do not ask: “What is the definition?”
+* Ask: “What behavior does this produce?”
 
 #### B. State Transition Thinking
 Understand systems as:
