@@ -243,15 +243,32 @@ Now study:
 
 ### 8. Ideal Domains for This Learning Style
 
-This approach excels in: software engineering, ML engineering, backend systems, infrastructure, data systems, analytics, trading systems, optimization, distributed systems, and experimentation-heavy environments.
+This approach excels in: 
+- software engineering
+- ML engineering
+- backend systems
+- infrastructure
+- data systems
+- analytics
+- trading systems
+- optimization
+- distributed systems
+- experimentation-heavy environments.
 
 ---
 
 ### 9. Long-Term Goal
 
-The endpoint is **NOT** to “avoid theory.” The endpoint is: integrate intuition and formal reasoning into a unified systems-level understanding.
+* The endpoint is **NOT** to “avoid theory.”
+* The endpoint is: integrate intuition and formal reasoning into a unified systems-level understanding.
 
 The mature form of this learning style becomes:
-`interact -> observe -> experiment -> detect invariants -> formalize -> generalize -> design systems deliberately`
+- interact
+- observe
+- experiment
+- detect invariants
+- formalize
+- generalize
+- design systems deliberately
 
 That is the transition from **user of systems** to **engineer of systems**.
