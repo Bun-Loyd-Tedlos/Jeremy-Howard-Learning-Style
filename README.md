@@ -73,14 +73,14 @@ You are developing: operational intuition, causal understanding, system feel.
 
 **Example**
 *   **Change:**
-  -   learning rate
-  -   query structure
-  -   architecture
-  -   state transitions
-  -   memory allocation strategy.
+  - learning rate
+  - query structure
+  - architecture
+  - state transitions
+  - memory allocation strategy.
 *   **Observe:**
-  -   what behavior changed
-  -   what behavior remained invariant.
+  - what behavior changed
+  - what behavior remained invariant.
 
 #### Phase 4 — Constraint Exposure
 **Objective:** Encounter real-world limitations early.
