@@ -129,7 +129,9 @@ Understand systems as:
 *   memory transitions
 *   invariant-preserving processes
 
-**Questions:** What state exists now? What event caused transition? What state is preserved? What state mutates?
+**Questions:** 
+* What state exists now? What event caused transition?
+* What state is preserved? What state mutates?
 
 #### C. Invariant-Oriented Learning
 Focus on: what must remain true regardless of transformation.
@@ -161,7 +163,13 @@ Kaggle compressed years of learning into:
 *   iterative improvement
 *   public benchmarking
 
-It rewarded adaptability, implementation, experimentation, optimization, and practical intuition more than credentials, prestige, or theoretical status.
+It rewarded: 
+* adaptability
+* implementation
+* experimentation
+* optimization
+* practical intuition more than credentials
+* prestige or theoretical status.
 
 ---
 
