@@ -176,6 +176,7 @@ Implementation exposes:
   - mutations
   - invariants
   - failures
+    
 **Step 4 — Study Reactively:**
 - Study:
   - architecture
@@ -184,6 +185,7 @@ Implementation exposes:
   - mathematics
   - optimization
   but only after encountering real implementation problems.
+
 **Step 5 — Refactor and Iterate:**
 - Refinement develops:
   - abstraction skill
