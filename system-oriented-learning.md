@@ -201,43 +201,43 @@ Implementation exposes:
   - delayed progress
 
 **Recommended Approach**
-*   Build customer records
-*   pricing logic
-*   service tracking
-*   discounts
-*   transaction state flow
+* Build customer records
+  - pricing logic
+  - service tracking
+  - discounts
+  - transaction state flow
   
-*   Observe duplicated logic
-*   invalid states
-*   persistence issues
-*   coupling issues
-*   scaling concerns
+* Observe duplicated logic
+  - invalid states
+  - persistence issues
+  - coupling issues
+  - scaling concerns
   
 * apply
-  * architecture patterns
-  * abstractions
-  * system design principles
+  - architecture patterns
+  - abstractions
+  - system design principles
 
 ### 14. Important Warning
 
 **Build-First Does NOT Mean:**
-*   avoid theory
-*   ignore rigor
-*   abandon abstraction
-*   stay in trial-and-error forever
+- avoid theory
+- ignore rigor
+- abandon abstraction
+- stay in trial-and-error forever
 
 **The goal is:**
-*   interaction first
-*   → formalization second
-*   → integration third
+- interaction first
+- formalization second
+- integration third
 
 ### 15. Long-Term Objective
 
 The mature engineer eventually integrates:
-*   implementation intuition
-*   systems reasoning
-*   formal abstraction
-*   theoretical understanding
+- implementation intuition
+- systems reasoning
+- formal abstraction
+- theoretical understanding
 
 **The progression becomes:**
 *   Interact → Observe → Experiment → Detect Patterns → Formalize → Generalize → Design Deliberately
