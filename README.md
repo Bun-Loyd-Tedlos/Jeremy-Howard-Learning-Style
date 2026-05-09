@@ -177,25 +177,25 @@ It rewarded:
 
 **Step 1 — Build Something Immediately**
 *   Do not overprepare
- *   Examples:
-  *   deploy a simple API
-  *   train a toy model
-  *   build a CRUD system
-  *   process real CSV files
-  *   write a parser
-  *   create a state machine
-*   Goal: establish contact with the system
+ * Examples:
+  * deploy a simple API
+  * train a toy model
+  * build a CRUD system
+  * process real CSV files
+  * write a parser
+  * create a state machine
+* Goal: establish contact with the system
 
 **Step 2 — Observe System Behavior**
-*   Track:
- *   state changes
- *   outputs
- *   memory behavior
- *   latency
- *   edge cases
- *   errors
- *   transformations
- *   Document observations
+* Track:
+ * state changes
+ * outputs
+ * memory behavior
+ * latency
+ * edge cases
+ * errors
+ * transformations
+ * Document observations
 
 **Step 3 — Run Controlled Experiments**
 *   Modify one variable at a time
